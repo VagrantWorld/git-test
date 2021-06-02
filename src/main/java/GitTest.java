@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("GIT TEST");
         System.out.println("GIT TEST2");
         System.out.println("GIT TEST3");
+        System.out.println("GIT TEST4");
     }
 }
